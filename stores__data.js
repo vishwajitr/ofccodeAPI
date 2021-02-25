@@ -133,7 +133,7 @@ export const store = [
       //   domainBrand: 'paytmmall.com',
       //   storeLink: 'https://www.paytmmall.com/',
       //   dataUrl: 'https://export.admitad.com/en/webmaster/websites/1777052/coupons/export/?website=1777052&code=eyq48w62bj&keyword=&language=&region=00&advcampaigns=18679&user=vishwajit82&format=csv&v=4',
-      // //},
+      // },
       // {
       //   id: 10,
       //   affSource: 1,
