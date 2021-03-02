@@ -70,6 +70,7 @@ export const store = [
     },
     name: "TataCliq",
     slug: "tatacliq-coupons",
+    storeSlug: 'tatacliq',
     domainBrand: "tatacliq.com",
     storeLink: "https://www.tatacliq.com/",
     dataUrl:
@@ -90,6 +91,7 @@ export const store = [
     },
     name: "Banggood",
     slug: "banggood-coupons",
+    storeSlug: 'banggood',
     domainBrand: "banggood.com",
     storeLink: "https://www.banggood.com/",
     dataUrl:
@@ -188,6 +190,7 @@ export const store = [
     },
     name: "AliExpress",
     slug: "aliexpress-coupons",
+    storeSlug: 'aliexpress',
     domainBrand: "aliexpress.com",
     storeLink: "https://www.aliexpress.com/",
     dataUrl:
@@ -223,6 +226,7 @@ export const store = [
     },
     name: "Hostinger",
     slug: "hostinger-coupons",
+    storeSlug: 'hostinger',
     domainBrand: "hostinger.com",
     storeLink: "https://www.hostinger.com/",
     dataUrl:
@@ -243,6 +247,7 @@ export const store = [
     },
     name: "FirstCry",
     slug: "firstcry",
+    storeSlug: 'firstcry',
     domainBrand: "firstcry.com",
     storeLink: "https://www.firstcry.com/",
     dataUrl:
@@ -278,6 +283,7 @@ export const store = [
     },
     name: "Coursera",
     slug: "coursera-coupons",
+    storeSlug: 'coursera',
     domainBrand: "coursera.com",
     storeLink: "https://www.coursera.com/",
     dataUrl:
@@ -298,6 +304,7 @@ export const store = [
     },
     name: "Crocs",
     slug: "crocs-coupons",
+    storeSlug: 'crocs',
     domainBrand: "crocs.com",
     storeLink: "https://www.crocs.com/",
     dataUrl:
@@ -318,6 +325,7 @@ export const store = [
     },
     name: "Clarks",
     slug: "clarks-coupons",
+    storeSlug: 'clarks',
     domainBrand: "clarks.com",
     storeLink: "https://www.clarks.com/",
     dataUrl:
@@ -338,6 +346,7 @@ export const store = [
     },
     name: "BuyWow",
     slug: "buywow-coupons",
+    storeSlug: 'buywow',
     domainBrand: "buywow.com",
     storeLink: "https://www.buywow.com/",
     dataUrl:
@@ -358,6 +367,7 @@ export const store = [
     },
     name: "Boat",
     slug: "boatlifestyle-coupons",
+    storeSlug: 'boatlifestyle',
     domainBrand: "boatlifestyle.com",
     storeLink: "https://www.boatlifestyle.com/",
     dataUrl:
