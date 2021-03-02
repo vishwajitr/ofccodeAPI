@@ -69,7 +69,7 @@ export const store = [
       MarketPlaceCountry: "IN",
     },
     name: "TataCliq",
-    slug: "tatacliq",
+    slug: "tatacliq-coupons",
     domainBrand: "tatacliq.com",
     storeLink: "https://www.tatacliq.com/",
     dataUrl:
@@ -89,7 +89,7 @@ export const store = [
       MarketPlaceCountry: "IN",
     },
     name: "Banggood",
-    slug: "banggood",
+    slug: "banggood-coupons",
     domainBrand: "banggood.com",
     storeLink: "https://www.banggood.com/",
     dataUrl:
@@ -187,7 +187,7 @@ export const store = [
       MarketPlaceCountry: "IN",
     },
     name: "AliExpress",
-    slug: "aliexpress",
+    slug: "aliexpress-coupons",
     domainBrand: "aliexpress.com",
     storeLink: "https://www.aliexpress.com/",
     dataUrl:
@@ -222,7 +222,7 @@ export const store = [
       MarketPlaceCountry: "IN",
     },
     name: "Hostinger",
-    slug: "hostinger",
+    slug: "hostinger-coupons",
     domainBrand: "hostinger.com",
     storeLink: "https://www.hostinger.com/",
     dataUrl:
@@ -277,7 +277,7 @@ export const store = [
       MarketPlaceCountry: "IN",
     },
     name: "Coursera",
-    slug: "coursera",
+    slug: "coursera-coupons",
     domainBrand: "coursera.com",
     storeLink: "https://www.coursera.com/",
     dataUrl:
@@ -297,7 +297,7 @@ export const store = [
       MarketPlaceCountry: "IN",
     },
     name: "Crocs",
-    slug: "crocs",
+    slug: "crocs-coupons",
     domainBrand: "crocs.com",
     storeLink: "https://www.crocs.com/",
     dataUrl:
@@ -317,7 +317,7 @@ export const store = [
       MarketPlaceCountry: "IN",
     },
     name: "Clarks",
-    slug: "clarks",
+    slug: "clarks-coupons",
     domainBrand: "clarks.com",
     storeLink: "https://www.clarks.com/",
     dataUrl:
@@ -337,7 +337,7 @@ export const store = [
       MarketPlaceCountry: "IN",
     },
     name: "BuyWow",
-    slug: "buywow",
+    slug: "buywow-coupons",
     domainBrand: "buywow.com",
     storeLink: "https://www.buywow.com/",
     dataUrl:
@@ -357,7 +357,7 @@ export const store = [
       MarketPlaceCountry: "IN",
     },
     name: "Boat",
-    slug: "boatlifestyle",
+    slug: "boatlifestyle-coupons",
     domainBrand: "boatlifestyle.com",
     storeLink: "https://www.boatlifestyle.com/",
     dataUrl:
