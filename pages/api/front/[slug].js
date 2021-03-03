@@ -1,8 +1,8 @@
 import { store } from '../../../stores__data'
 
 // http://127.0.0.1:3000/api/store/2
-export default function personHandler({ query: { storeSlug } }, res) {
-  const filtered = store.filter((p) => p.storeSlug === storeSlug)
+export default function personHandler({ query: { slug } }, res) {
+  const filtered = store.filter((p) => p.storeSlug === slug)
 
   // User with id exists
   if (filtered.length > 0) {
