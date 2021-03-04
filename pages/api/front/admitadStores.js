@@ -3149,21 +3149,21 @@ const admitad  = [
     "storeLink": "https://www.pizzahut.co.in",
     "metaInfo__desc": ""
   },
-  {
-    "id": 211,
-    "affSource": 1,
-    "affInfo__StoreId": 22929,
-    "affInfo__Source": "admitad",
-    "affInfo__SourceSite": "admitad.com",
-    "affInfo__MarketPlaceCountry": "India",
-    "name": "Onsitego [CPA] IN",
-    "formatted_name": "Onsitego",
-    "slug": "onsitego-cpa-in",
-    "slugType": "coupons",
-    "domainBrand": "https://onsitego.com/",
-    "storeLink": "https://onsitego.com/",
-    "metaInfo__desc": ""
-  },
+  // {
+  //   "id": 211,
+  //   "affSource": 1,
+  //   "affInfo__StoreId": 22929,
+  //   "affInfo__Source": "admitad",
+  //   "affInfo__SourceSite": "admitad.com",
+  //   "affInfo__MarketPlaceCountry": "India",
+  //   "name": "Onsitego [CPA] IN",
+  //   "formatted_name": "Onsitego",
+  //   "slug": "onsitego-cpa-in",
+  //   "slugType": "coupons",
+  //   "domainBrand": "https://onsitego.com/",
+  //   "storeLink": "https://onsitego.com/",
+  //   "metaInfo__desc": ""
+  // },
   {
     "id": 212,
     "affSource": 1,
