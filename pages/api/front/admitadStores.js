@@ -4793,7 +4793,7 @@ const admitad  = [
     "affInfo__MarketPlaceCountry": "India",
     "name": "Voot Kids [CPT] IN",
     "formatted_name": "Voot Kids",
-    "slug": "voot-kids-cpt-in",
+    "slug": "voot-kids",
     "slugType": "coupons",
     "domainBrand": "https://apps.apple.com/in/app/voot-kids-the-fun-learning-app/id1035290695",
     "storeLink": "https://apps.apple.com/in/app/voot-kids-the-fun-learning-app/id1035290695",
