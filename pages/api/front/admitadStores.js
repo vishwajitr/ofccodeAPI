@@ -12,6 +12,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.magzter.com/",
     "storeLink": "https://www.magzter.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": "Magzter is the world’s largest digital newsstand with thousands of magazines and newspapers in its catalogue. Read them anytime and anywhere on iPad, iPhone, Android devices and the web."
   },
   {
@@ -27,6 +29,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.magzter.com/magztergold",
     "storeLink": "http://www.magzter.com/magztergold",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": "Magzter GOLD, the “All-you-can-read” subscription, gives you unlimited access to 5,000+ magazines, newspapers and premium stories. Enjoy reading them on iPad, iPhone, Android devices and the web."
   },
   {
@@ -42,6 +46,8 @@ const admitad  = [
     "slugType": "offers",
     "domainBrand": "https://www.kotak.com/811-savingsaccount-ZeroBalanceAccount/811/ahome2.action?source",
     "storeLink": "https://www.kotak.com/811-savingsaccount-ZeroBalanceAccount/811/ahome2.action?source",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -57,6 +63,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.sharekhan.com/",
     "storeLink": "https://www.sharekhan.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -72,6 +80,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.banggood.com/",
     "storeLink": "https://www.banggood.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -87,6 +97,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://iherb.com/",
     "storeLink": "http://iherb.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -102,6 +114,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.fun88inr.com/in/register",
     "storeLink": "https://www.fun88inr.com/in/register",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -117,6 +131,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.adobe.com/",
     "storeLink": "https://www.adobe.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -132,6 +148,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.fairyseason.com/",
     "storeLink": "http://www.fairyseason.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -147,6 +165,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://in.norton.com/",
     "storeLink": "https://in.norton.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -162,6 +182,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.hotelscombined.com/",
     "storeLink": "http://www.hotelscombined.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -177,6 +199,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://depositphotos.com/",
     "storeLink": "http://depositphotos.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -192,6 +216,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.bitdefender.com/",
     "storeLink": "https://www.bitdefender.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -207,6 +233,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://aviasales.ru/",
     "storeLink": "http://aviasales.ru/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -222,6 +250,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://skillshare.evyy.net/c/269814/298081/4650",
     "storeLink": "http://skillshare.evyy.net/c/269814/298081/4650",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -237,6 +267,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.eneba.com/",
     "storeLink": "https://www.eneba.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -252,6 +284,8 @@ const admitad  = [
     "slugType": "offers",
     "domainBrand": "https://pharmeasy.in/",
     "storeLink": "https://pharmeasy.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -267,6 +301,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.bellelily.com/",
     "storeLink": "https://www.bellelily.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -282,6 +318,8 @@ const admitad  = [
     "slugType": "offers",
     "domainBrand": "https://zanducare.com/",
     "storeLink": "https://zanducare.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -297,6 +335,8 @@ const admitad  = [
     "slugType": "offers",
     "domainBrand": "https://www.shutterstock.com/",
     "storeLink": "https://www.shutterstock.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -312,6 +352,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.bigcommerce.com/",
     "storeLink": "https://www.bigcommerce.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -327,6 +369,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://labirint.ru/",
     "storeLink": "http://labirint.ru/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -342,6 +386,8 @@ const admitad  = [
     "slugType": "offers",
     "domainBrand": "http://ajio.com/",
     "storeLink": "http://ajio.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -357,6 +403,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.tvc-mall.com/",
     "storeLink": "https://www.tvc-mall.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -372,6 +420,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.milanoo.com/",
     "storeLink": "http://www.milanoo.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -387,6 +437,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.lovelywholesale.com/",
     "storeLink": "https://www.lovelywholesale.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -402,6 +454,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://theluxurycloset.com/",
     "storeLink": "https://theluxurycloset.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -417,6 +471,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.maxmilhas.com.br/",
     "storeLink": "https://www.maxmilhas.com.br/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -432,6 +488,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.patpat.com/",
     "storeLink": "https://www.patpat.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -447,6 +505,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.floryday.com/",
     "storeLink": "https://www.floryday.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -462,6 +522,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.admitad.com/",
     "storeLink": "https://www.admitad.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -477,6 +539,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.reliancegeneral.co.in/Insurance/Motor-Insurance/Two-Wheeler-Insurance.aspx",
     "storeLink": "https://www.reliancegeneral.co.in/Insurance/Motor-Insurance/Two-Wheeler-Insurance.aspx",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -492,6 +556,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://zivame.com/",
     "storeLink": "http://zivame.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -507,6 +573,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.pepperfry.com/",
     "storeLink": "https://www.pepperfry.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -522,6 +590,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.fnp.com/",
     "storeLink": "http://www.fnp.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -537,6 +607,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.cafago.com/",
     "storeLink": "http://www.cafago.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -552,6 +624,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.sunsky-online.com/",
     "storeLink": "https://www.sunsky-online.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -567,6 +641,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.asics.com/in/en-in",
     "storeLink": "https://www.asics.com/in/en-in",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -582,6 +658,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.novakid.com.tr/",
     "storeLink": "https://www.novakid.com.tr/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -597,6 +675,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.knowfashionstyle.com/",
     "storeLink": "https://www.knowfashionstyle.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -612,6 +692,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.wondershare.com/",
     "storeLink": "https://www.wondershare.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -627,6 +709,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://kiehls.in/",
     "storeLink": "http://kiehls.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -642,6 +726,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://more.nielsen.com/signup",
     "storeLink": "https://more.nielsen.com/signup",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -657,6 +743,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://lightinthebox.com/",
     "storeLink": "https://lightinthebox.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -672,6 +760,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://agoda.com/",
     "storeLink": "http://agoda.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -687,6 +777,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://tomtop.com/",
     "storeLink": "http://tomtop.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -702,6 +794,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://firstcry.com/",
     "storeLink": "http://firstcry.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -717,6 +811,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://limeroad.com/",
     "storeLink": "http://limeroad.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -732,6 +828,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.geekbuying.com/",
     "storeLink": "http://www.geekbuying.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -747,6 +845,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://myntra.com/",
     "storeLink": "http://myntra.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -762,6 +862,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.englishdom.com/learn-effectively/",
     "storeLink": "https://www.englishdom.com/learn-effectively/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -777,6 +879,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.newchic.com/",
     "storeLink": "http://www.newchic.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -792,6 +896,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.raynatours.com/",
     "storeLink": "https://www.raynatours.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -807,6 +913,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.foreo.com/",
     "storeLink": "https://www.foreo.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -822,6 +930,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.fiverr.com/",
     "storeLink": "https://www.fiverr.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -837,6 +947,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://nordvpn.com/",
     "storeLink": "https://nordvpn.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -852,6 +964,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://tez-tour.com/",
     "storeLink": "https://tez-tour.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -867,6 +981,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.uniplaces.com/",
     "storeLink": "https://www.uniplaces.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -882,6 +998,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://alibaba.com/",
     "storeLink": "http://alibaba.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -897,6 +1015,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.hdfcergo.com/",
     "storeLink": "https://www.hdfcergo.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -912,6 +1032,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://mamaearth.in/",
     "storeLink": "https://mamaearth.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -927,6 +1049,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.timesprime.com/",
     "storeLink": "https://www.timesprime.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -942,6 +1066,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.maxlifeinsurance.com/",
     "storeLink": "https://www.maxlifeinsurance.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -957,6 +1083,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.redwolf.in/",
     "storeLink": "https://www.redwolf.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -972,6 +1100,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.udemy.com/",
     "storeLink": "https://www.udemy.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -987,6 +1117,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.arata.in/",
     "storeLink": "https://www.arata.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1002,6 +1134,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.tutoronline.ru/",
     "storeLink": "https://www.tutoronline.ru/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1017,6 +1151,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://molnija.shop/?utm_source=admitad&utm_medium=cpa&utm_campaign={{publisher_id}}&tagtag_uid={{admitad_uid}}",
     "storeLink": "https://molnija.shop/?utm_source=admitad&utm_medium=cpa&utm_campaign={{publisher_id}}&tagtag_uid={{admitad_uid}}",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1032,6 +1168,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.rummycircle.com/",
     "storeLink": "https://www.rummycircle.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1047,6 +1185,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://in.toluna.com/#/",
     "storeLink": "https://in.toluna.com/#/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1062,6 +1202,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://travel.ic-ekta.com/",
     "storeLink": "https://travel.ic-ekta.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1077,6 +1219,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://rentalcars.com/",
     "storeLink": "http://rentalcars.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1092,6 +1236,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://thepanelstation.com/in/home",
     "storeLink": "http://thepanelstation.com/in/home",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1107,6 +1253,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://kwork.ru/",
     "storeLink": "https://kwork.ru/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1122,6 +1270,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.jockey.in/",
     "storeLink": "https://www.jockey.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1137,6 +1287,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.360totalsecurity.com/",
     "storeLink": "https://www.360totalsecurity.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1152,6 +1304,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.ericdress.com/",
     "storeLink": "https://www.ericdress.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1167,6 +1321,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.tanishq.co.in/",
     "storeLink": "https://www.tanishq.co.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1182,6 +1338,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.luisaviaroma.com/",
     "storeLink": "https://www.luisaviaroma.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1197,6 +1355,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://plumgoodness.com/",
     "storeLink": "https://plumgoodness.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1212,6 +1372,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.hdfcergo.com/campaigns/vehicle-insurance",
     "storeLink": "https://www.hdfcergo.com/campaigns/vehicle-insurance",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1227,6 +1389,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://preply.com/",
     "storeLink": "https://preply.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1242,6 +1406,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.cigabuy.com/",
     "storeLink": "http://www.cigabuy.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1257,6 +1423,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://decathlon.in/",
     "storeLink": "http://decathlon.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1272,6 +1440,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://zaful.com/",
     "storeLink": "http://zaful.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1287,6 +1457,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.Cyber-florist.ru/",
     "storeLink": "https://www.Cyber-florist.ru/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1302,6 +1474,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.g2a.com/",
     "storeLink": "https://www.g2a.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1317,6 +1491,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://gepur.com/",
     "storeLink": "https://gepur.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1332,6 +1508,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.samsung.com/in/",
     "storeLink": "http://www.samsung.com/in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1347,6 +1525,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.airycloth.com/",
     "storeLink": "https://www.airycloth.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1362,6 +1542,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.berrylook.com/",
     "storeLink": "https://www.berrylook.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1377,6 +1559,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.a.ubuy.com.kw/en/",
     "storeLink": "https://www.a.ubuy.com.kw/en/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1392,6 +1576,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.trainline.eu/",
     "storeLink": "https://www.trainline.eu/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1407,6 +1593,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.acko.com/",
     "storeLink": "https://www.acko.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1422,6 +1610,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.abebooks.com/",
     "storeLink": "https://www.abebooks.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1437,6 +1627,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://inavokich.ru/",
     "storeLink": "https://inavokich.ru/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1452,6 +1644,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.flytap.com/",
     "storeLink": "https://www.flytap.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1467,6 +1661,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.religarehealthinsurance.com/",
     "storeLink": "https://www.religarehealthinsurance.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1482,6 +1678,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.boddess.com/",
     "storeLink": "https://www.boddess.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1497,6 +1695,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://zenmate.com/",
     "storeLink": "https://zenmate.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1512,6 +1712,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.marksandspencer.in",
     "storeLink": "https://www.marksandspencer.in",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1527,6 +1729,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.forestessentialsindia.com/",
     "storeLink": "https://www.forestessentialsindia.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1542,6 +1746,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.parallels.com/",
     "storeLink": "https://www.parallels.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1557,6 +1763,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.techofferings.com/kruti/",
     "storeLink": "https://www.techofferings.com/kruti/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1572,6 +1780,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://transferwise.com/",
     "storeLink": "https://transferwise.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1587,6 +1797,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.boat-lifestyle.com/",
     "storeLink": "https://www.boat-lifestyle.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1602,6 +1814,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.floraexpress.ru/",
     "storeLink": "https://www.floraexpress.ru/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1617,6 +1831,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://myrentacar.com/",
     "storeLink": "https://myrentacar.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1632,6 +1848,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://dresslily.com/",
     "storeLink": "http://dresslily.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1647,6 +1865,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.tatacliq.com/",
     "storeLink": "https://www.tatacliq.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1662,6 +1882,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.indiangiftsportal.com/",
     "storeLink": "http://www.indiangiftsportal.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1677,6 +1899,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://company.plarium.com/ru/games/mobile/vikings-war-of-clans/",
     "storeLink": "http://company.plarium.com/ru/games/mobile/vikings-war-of-clans/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1692,6 +1916,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.beardo.in/",
     "storeLink": "https://www.beardo.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1707,6 +1933,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://macpaw.com/",
     "storeLink": "https://macpaw.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1722,6 +1950,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://kiwi.com/",
     "storeLink": "http://kiwi.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1737,6 +1967,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://envato.com/",
     "storeLink": "https://envato.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1752,6 +1984,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.candere.com/",
     "storeLink": "https://www.candere.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1767,6 +2001,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://priceline.com/",
     "storeLink": "http://priceline.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1782,6 +2018,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.bigrock.in/",
     "storeLink": "https://www.bigrock.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1797,6 +2035,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://drimsim.com/",
     "storeLink": "https://drimsim.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1812,6 +2052,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://letyshops.com/es",
     "storeLink": "https://letyshops.com/es",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1827,6 +2069,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.mymoneykarma.com/",
     "storeLink": "https://www.mymoneykarma.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1842,6 +2086,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://99designs.com/",
     "storeLink": "https://99designs.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1857,6 +2103,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.fanatical.com/",
     "storeLink": "https://www.fanatical.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1872,6 +2120,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.kent.co.in/",
     "storeLink": "https://www.kent.co.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1887,6 +2137,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.compensair.com/en/check-flight.html",
     "storeLink": "https://www.compensair.com/en/check-flight.html",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1902,6 +2154,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://pizzaonline.dominos.co.in/?src=brand",
     "storeLink": "https://pizzaonline.dominos.co.in/?src=brand",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1917,6 +2171,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.oneplus.in/",
     "storeLink": "https://www.oneplus.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1932,6 +2188,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.clarks.in/",
     "storeLink": "https://www.clarks.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1947,6 +2205,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.flydubai.com/",
     "storeLink": "https://www.flydubai.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1962,6 +2222,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.valuedopinions.co.in/join",
     "storeLink": "http://www.valuedopinions.co.in/join",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1977,6 +2239,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.sharekhan.com/",
     "storeLink": "https://www.sharekhan.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -1992,6 +2256,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.iciciprulife.com/term-insurance-plans/iprotect-smart-term-insurance-calculator.html?UID=35436&utm_source=email&utm_medium=affiliate&utm_campaign=admitads-email-ips-affiliate-35436&utm_content=secure-family",
     "storeLink": "https://www.iciciprulife.com/term-insurance-plans/iprotect-smart-term-insurance-calculator.html?UID=35436&utm_source=email&utm_medium=affiliate&utm_campaign=admitads-email-ips-affiliate-35436&utm_content=secure-family",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2007,6 +2273,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://1mg.com/",
     "storeLink": "http://1mg.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2022,6 +2290,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.eduonix.com",
     "storeLink": "https://www.eduonix.com",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2037,6 +2307,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.canva.com/",
     "storeLink": "https://www.canva.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2052,6 +2324,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.scalahosting.com",
     "storeLink": "https://www.scalahosting.com",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2067,6 +2341,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://iqsha.ru/",
     "storeLink": "https://iqsha.ru/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2082,6 +2358,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.edrawsoft.com/",
     "storeLink": "https://www.edrawsoft.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2097,6 +2375,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.vijaysales.com/home",
     "storeLink": "https://www.vijaysales.com/home",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2112,6 +2392,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://shopcrocs.in/",
     "storeLink": "https://shopcrocs.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2127,6 +2409,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.7starpartners.com/",
     "storeLink": "https://www.7starpartners.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2142,6 +2426,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://shop.havells.com/",
     "storeLink": "https://shop.havells.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2157,6 +2443,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.futurelearn.com/",
     "storeLink": "https://www.futurelearn.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2172,6 +2460,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.buywow.in/",
     "storeLink": "https://www.buywow.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2187,6 +2477,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://hola.org/",
     "storeLink": "https://hola.org/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2202,6 +2494,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://miniinthebox.com/",
     "storeLink": "http://miniinthebox.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2217,6 +2511,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://booking.com/in",
     "storeLink": "http://booking.com/in",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2232,6 +2528,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://flashdeals.aliexpress.com/",
     "storeLink": "https://flashdeals.aliexpress.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2247,6 +2545,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://qatarairways.com/",
     "storeLink": "http://qatarairways.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2262,6 +2562,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.priceelf.com/",
     "storeLink": "https://www.priceelf.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2277,6 +2579,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://ruvds.com/",
     "storeLink": "https://ruvds.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2292,6 +2596,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.tidebuy.com/",
     "storeLink": "https://www.tidebuy.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2307,6 +2613,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.adidas.co.in/",
     "storeLink": "http://www.adidas.co.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2322,6 +2630,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.omio.com/",
     "storeLink": "https://www.omio.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2337,6 +2647,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.adorama.com/",
     "storeLink": "http://www.adorama.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2352,6 +2664,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.liquidweb.com/",
     "storeLink": "https://www.liquidweb.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2367,6 +2681,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.peggybuy.com/",
     "storeLink": "https://www.peggybuy.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2382,6 +2698,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.jackjones.in/",
     "storeLink": "http://www.jackjones.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2397,6 +2715,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.whatwears.com/",
     "storeLink": "https://www.whatwears.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2412,6 +2732,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.discovercars.com",
     "storeLink": "https://www.discovercars.com",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2427,6 +2749,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.fastrack.in/",
     "storeLink": "https://www.fastrack.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2442,6 +2766,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.themancompany.com/",
     "storeLink": "https://www.themancompany.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2457,6 +2783,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://stockx.com/",
     "storeLink": "https://stockx.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2472,6 +2800,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.paradoxplaza.com/",
     "storeLink": "https://www.paradoxplaza.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2487,6 +2817,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.italiarail.com/",
     "storeLink": "https://www.italiarail.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2502,6 +2834,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://in.godaddy.com/",
     "storeLink": "https://in.godaddy.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2517,6 +2851,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://plarium.com/landings/en/desktop/raid/dragon_fire_a_m_f038_droapp",
     "storeLink": "https://plarium.com/landings/en/desktop/raid/dragon_fire_a_m_f038_droapp",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2532,6 +2868,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.namecheap.com",
     "storeLink": "https://www.namecheap.com",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2547,6 +2885,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.ivacy.com/",
     "storeLink": "https://www.ivacy.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2562,6 +2902,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.privateinternetaccess.com/",
     "storeLink": "https://www.privateinternetaccess.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2577,6 +2919,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://hotellook.ru/",
     "storeLink": "http://hotellook.ru/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2592,6 +2936,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.online.citibank.co.in/credit-card/Apr16/cards-apply/apply-now.htm",
     "storeLink": "https://www.online.citibank.co.in/credit-card/Apr16/cards-apply/apply-now.htm",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2607,6 +2953,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://industrybuying.com/",
     "storeLink": "http://industrybuying.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2622,6 +2970,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.yoins.com/",
     "storeLink": "http://www.yoins.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2637,6 +2987,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.makemytrip.com/flights",
     "storeLink": "https://www.makemytrip.com/flights",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2652,6 +3004,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.ebay.com/",
     "storeLink": "http://www.ebay.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2667,6 +3021,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://libertex-secure.com/?a=247&c=84",
     "storeLink": "https://libertex-secure.com/?a=247&c=84",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2682,6 +3038,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://tripmydream.com/",
     "storeLink": "https://tripmydream.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2697,6 +3055,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://jamalon.com/en/",
     "storeLink": "https://jamalon.com/en/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2712,6 +3072,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://global.redmagic.gg/",
     "storeLink": "http://global.redmagic.gg/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2727,6 +3089,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.goibibo.com/hotels/",
     "storeLink": "https://www.goibibo.com/hotels/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2742,6 +3106,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://placeit.net/",
     "storeLink": "https://placeit.net/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2757,6 +3123,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.floweraura.com/",
     "storeLink": "https://www.floweraura.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2772,6 +3140,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.seniority.in/",
     "storeLink": "https://www.seniority.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2787,6 +3157,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.veromoda.in/",
     "storeLink": "https://www.veromoda.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2802,6 +3174,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://battleforthegalaxy.com/xsolla/",
     "storeLink": "http://battleforthegalaxy.com/xsolla/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2817,6 +3191,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://publicis.go2cloud.org/aff_c?offer_id=426&aff_id=1264&aff_sub=aff_sub",
     "storeLink": "http://publicis.go2cloud.org/aff_c?offer_id=426&aff_id=1264&aff_sub=aff_sub",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2832,6 +3208,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://india.resellerclub.com/",
     "storeLink": "https://india.resellerclub.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2847,6 +3225,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://nordpass.com/",
     "storeLink": "https://nordpass.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2862,6 +3242,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.gasjeans.in/",
     "storeLink": "https://www.gasjeans.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2877,6 +3259,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.facescanada.com/",
     "storeLink": "https://www.facescanada.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2892,6 +3276,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://insurance.kotak.com/OnlineTermInsurance/?utm_source=Admitad&utm_medium=email&utmcampaign=email&utm_content=email&lead_group=ip_affiliate",
     "storeLink": "https://insurance.kotak.com/OnlineTermInsurance/?utm_source=Admitad&utm_medium=email&utmcampaign=email&utm_content=email&lead_group=ip_affiliate",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2907,6 +3293,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.mymoneykarma.com/credit-score/credit-score.html",
     "storeLink": "https://www.mymoneykarma.com/credit-score/credit-score.html",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2922,6 +3310,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://xyxxcrew.com/",
     "storeLink": "https://xyxxcrew.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2937,6 +3327,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.italojewelry.com/",
     "storeLink": "https://www.italojewelry.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2952,6 +3344,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.lotus-organics.com/",
     "storeLink": "https://www.lotus-organics.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2967,6 +3361,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://dx.com/",
     "storeLink": "http://dx.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2982,6 +3378,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://rosegal.com/",
     "storeLink": "http://rosegal.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -2997,6 +3395,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.coolwinks.com/",
     "storeLink": "https://www.coolwinks.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3012,6 +3412,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.medlife.com/",
     "storeLink": "https://www.medlife.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3027,6 +3429,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://etoren.com/",
     "storeLink": "https://etoren.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3042,6 +3446,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.vegas.com/",
     "storeLink": "https://www.vegas.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3057,6 +3463,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://paytmmall.com/",
     "storeLink": "https://paytmmall.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3072,6 +3480,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://shop4reebok.com/",
     "storeLink": "https://shop4reebok.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3087,6 +3497,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.2gud.com/",
     "storeLink": "https://www.2gud.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3102,6 +3514,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.freshtohome.com/",
     "storeLink": "https://www.freshtohome.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3117,6 +3531,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://youtravel.me/",
     "storeLink": "https://youtravel.me/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3132,6 +3548,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://play.google.com/store/apps/details?id=com.balaji.alt",
     "storeLink": "https://play.google.com/store/apps/details?id=com.balaji.alt",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3147,6 +3565,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.pizzahut.co.in",
     "storeLink": "https://www.pizzahut.co.in",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3162,6 +3582,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://onsitego.com/",
     "storeLink": "https://onsitego.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3177,6 +3599,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://onlypult.com/ru",
     "storeLink": "https://onlypult.com/ru",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3192,6 +3616,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.edureka.co/",
     "storeLink": "https://www.edureka.co/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3207,6 +3633,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://apps.tataaia.com/tataaia/rakshakaran/LeadAssist.jsp",
     "storeLink": "https://apps.tataaia.com/tataaia/rakshakaran/LeadAssist.jsp",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3222,6 +3650,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://upstox.com/open-demat-account/?experiment=6",
     "storeLink": "https://upstox.com/open-demat-account/?experiment=6",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3237,6 +3667,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.kapiva.in/",
     "storeLink": "https://www.kapiva.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3252,6 +3684,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.ludosupreme.com/",
     "storeLink": "https://www.ludosupreme.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3267,6 +3701,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://orfogrammka.ru/",
     "storeLink": "https://orfogrammka.ru/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3282,6 +3718,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.upgrad.com/management-pgdm-bimtech/",
     "storeLink": "https://www.upgrad.com/management-pgdm-bimtech/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3297,6 +3735,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://stores.saffola.in/",
     "storeLink": "https://stores.saffola.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3312,6 +3752,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://peers.tv/",
     "storeLink": "http://peers.tv/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3327,6 +3769,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.cesdeals.com/",
     "storeLink": "https://www.cesdeals.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3342,6 +3786,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://makemytrip.com/",
     "storeLink": "http://makemytrip.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3357,6 +3803,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.bewakoof.com/",
     "storeLink": "https://www.bewakoof.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3372,6 +3820,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.thebodyshop.in/",
     "storeLink": "https://www.thebodyshop.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3387,6 +3837,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.glasseslit.com/",
     "storeLink": "https://www.glasseslit.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3402,6 +3854,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.teknistore.com/",
     "storeLink": "https://www.teknistore.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3417,6 +3871,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://12go.asia/",
     "storeLink": "https://12go.asia/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3432,6 +3888,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://lightake.com/",
     "storeLink": "https://lightake.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3447,6 +3905,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://go2see.ru/",
     "storeLink": "https://go2see.ru/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3462,6 +3922,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.rugsusa.com/",
     "storeLink": "https://www.rugsusa.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3477,6 +3939,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.asianpaints.com/campaign/apmailer/email.html",
     "storeLink": "https://www.asianpaints.com/campaign/apmailer/email.html",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3492,6 +3956,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://play.google.com/store/apps/details?id=com.saranyu.shemarooworld&hl=en_IN",
     "storeLink": "https://play.google.com/store/apps/details?id=com.saranyu.shemarooworld&hl=en_IN",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3507,6 +3973,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.nike.com/",
     "storeLink": "https://www.nike.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3522,6 +3990,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.imyfone.com/",
     "storeLink": "https://www.imyfone.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3537,6 +4007,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.tenorshare.com/",
     "storeLink": "https://www.tenorshare.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3552,6 +4024,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.metroshoes.net/",
     "storeLink": "https://www.metroshoes.net/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3567,6 +4041,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.blinkist.com/en",
     "storeLink": "https://www.blinkist.com/en",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3582,6 +4058,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.bellewholesale.com/",
     "storeLink": "https://www.bellewholesale.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3597,6 +4075,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://lenskart.com/",
     "storeLink": "http://lenskart.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3612,6 +4092,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.chumbak.com/",
     "storeLink": "http://www.chumbak.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3627,6 +4109,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.qeeq.com/",
     "storeLink": "https://www.qeeq.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3642,6 +4126,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://themeforest.net/",
     "storeLink": "https://themeforest.net/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3657,6 +4143,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.lifestylestores.com/in/en/",
     "storeLink": "https://www.lifestylestores.com/in/en/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3672,6 +4160,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.opinionworld.in/",
     "storeLink": "https://www.opinionworld.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3687,6 +4177,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.grandbazaarist.com/",
     "storeLink": "https://www.grandbazaarist.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3702,6 +4194,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.tutorialspoint.com/",
     "storeLink": "https://www.tutorialspoint.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3717,6 +4211,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://artcraft.net.ua/",
     "storeLink": "https://artcraft.net.ua/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3732,6 +4228,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.holapick.com/",
     "storeLink": "https://www.holapick.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3747,6 +4245,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.gamesdeal.com/",
     "storeLink": "https://www.gamesdeal.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3762,6 +4262,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.joybuy.com/",
     "storeLink": "https://www.joybuy.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3777,6 +4279,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://global.blackshark.com/",
     "storeLink": "http://global.blackshark.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3792,6 +4296,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.harmanaudio.in/",
     "storeLink": "https://www.harmanaudio.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3807,6 +4313,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.ibacosmetics.com/",
     "storeLink": "https://www.ibacosmetics.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3822,6 +4330,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://worldoftanks.com/",
     "storeLink": "https://worldoftanks.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3837,6 +4347,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.alamy.com",
     "storeLink": "https://www.alamy.com",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3852,6 +4364,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.udyantea.com/",
     "storeLink": "https://www.udyantea.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3867,6 +4381,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://mpl-mobile-premier-league.en.softonic.com/android",
     "storeLink": "https://mpl-mobile-premier-league.en.softonic.com/android",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3882,6 +4398,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://croma.com/",
     "storeLink": "http://croma.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3897,6 +4415,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.wonderchef.com/",
     "storeLink": "https://www.wonderchef.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3912,6 +4432,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.pantaloons.com/",
     "storeLink": "https://www.pantaloons.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3927,6 +4449,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.online.citibank.co.in/",
     "storeLink": "https://www.online.citibank.co.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3942,6 +4466,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://gearbest.com/",
     "storeLink": "https://gearbest.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3957,6 +4483,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.aviasales.com/",
     "storeLink": "https://www.aviasales.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3972,6 +4500,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.oyorooms.com/",
     "storeLink": "https://www.oyorooms.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -3987,6 +4517,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://cleartrip.com/",
     "storeLink": "http://cleartrip.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4002,6 +4534,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://in.hotels.com/",
     "storeLink": "https://in.hotels.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4017,6 +4551,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://play.google.com/store/apps/details?id=com.panelManagement.activity",
     "storeLink": "https://play.google.com/store/apps/details?id=com.panelManagement.activity",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4032,6 +4568,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://biba.in/",
     "storeLink": "http://biba.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4047,6 +4585,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.yoox.com/th/",
     "storeLink": "https://www.yoox.com/th/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4062,6 +4602,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.ssense.com/",
     "storeLink": "https://www.ssense.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4077,6 +4619,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.menakart.com/",
     "storeLink": "https://www.menakart.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4092,6 +4636,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.gonoise.com/",
     "storeLink": "https://www.gonoise.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4107,6 +4653,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://sucuri.net/",
     "storeLink": "https://sucuri.net/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4122,6 +4670,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.mcdelivery.co.in/",
     "storeLink": "https://www.mcdelivery.co.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4137,6 +4687,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.eastessence.com/",
     "storeLink": "http://www.eastessence.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4152,6 +4704,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.policyx.com/",
     "storeLink": "https://www.policyx.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4167,6 +4721,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.bombayshavingcompany.com/",
     "storeLink": "https://www.bombayshavingcompany.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4182,6 +4738,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.massdrop.com/",
     "storeLink": "https://www.massdrop.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4197,6 +4755,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.microsoft.com/en-in",
     "storeLink": "https://www.microsoft.com/en-in",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4212,6 +4772,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://paisabazaar.com/",
     "storeLink": "https://paisabazaar.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4227,6 +4789,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.desertcart.ae/",
     "storeLink": "https://www.desertcart.ae/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4242,6 +4806,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.bookvip.com/",
     "storeLink": "https://www.bookvip.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4257,6 +4823,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.dell.co.in/",
     "storeLink": "https://www.dell.co.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4272,6 +4840,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.marriott.com/",
     "storeLink": "https://www.marriott.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4287,6 +4857,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.frankfinn.com/lp/admitad.php?click_id={{admitad_uid}}",
     "storeLink": "https://www.frankfinn.com/lp/admitad.php?click_id={{admitad_uid}}",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4302,6 +4874,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://themomsco.com/",
     "storeLink": "https://themomsco.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4317,6 +4891,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.durexindia.com/",
     "storeLink": "https://www.durexindia.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4332,6 +4908,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.watches2u.com/",
     "storeLink": "https://www.watches2u.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4347,6 +4925,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.udroppy.com/",
     "storeLink": "https://www.udroppy.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4362,6 +4942,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.hostinger.com/",
     "storeLink": "https://www.hostinger.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4377,6 +4959,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://termlife.policybazaar.com/",
     "storeLink": "https://termlife.policybazaar.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4392,6 +4976,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.adda52.com/poker/campaign/partners/welcome150",
     "storeLink": "https://www.adda52.com/poker/campaign/partners/welcome150",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4407,6 +4993,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://in.puma.com/",
     "storeLink": "https://in.puma.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4422,6 +5010,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.hdfcergo.com/Campaign/Car-insurance-old.aspx",
     "storeLink": "https://www.hdfcergo.com/Campaign/Car-insurance-old.aspx",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4437,6 +5027,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.godrejproperties.com/easybeginnings/ncr/godrej-golf-link/?utm_source=Admit_ad&campid=58348&utm_medium=CPL",
     "storeLink": "https://www.godrejproperties.com/easybeginnings/ncr/godrej-golf-link/?utm_source=Admit_ad&campid=58348&utm_medium=CPL",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4452,6 +5044,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.sochstore.com/",
     "storeLink": "https://www.sochstore.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4467,6 +5061,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.sc.com/in/",
     "storeLink": "https://www.sc.com/in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4482,6 +5078,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.policybazaar.com/health-insurance",
     "storeLink": "https://www.policybazaar.com/health-insurance",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4497,6 +5095,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.magzter.com/",
     "storeLink": "https://www.magzter.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4512,6 +5112,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.yesbank.in/",
     "storeLink": "https://www.yesbank.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4527,6 +5129,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.zee5.com/",
     "storeLink": "https://www.zee5.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4542,6 +5146,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://hostgator-india.sjv.io/Bd3e9",
     "storeLink": "https://hostgator-india.sjv.io/Bd3e9",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4557,6 +5163,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://in.sugarcosmetics.com/",
     "storeLink": "https://in.sugarcosmetics.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4572,6 +5180,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.realme.com/in/",
     "storeLink": "https://www.realme.com/in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4587,6 +5197,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.lenovo.com/in/en/",
     "storeLink": "https://www.lenovo.com/in/en/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4602,6 +5214,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.toprankers.com/",
     "storeLink": "https://www.toprankers.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4617,6 +5231,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://apps.apple.com/ru/app/id964748094",
     "storeLink": "https://apps.apple.com/ru/app/id964748094",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4632,6 +5248,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.macys.com/",
     "storeLink": "https://www.macys.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4647,6 +5265,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://deadhaussonata.com/store/",
     "storeLink": "https://deadhaussonata.com/store/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4662,6 +5282,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.luckyvitamin.com/",
     "storeLink": "http://www.luckyvitamin.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4677,6 +5299,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.adda52.com/poker/campaign/partners/welcome150",
     "storeLink": "https://www.adda52.com/poker/campaign/partners/welcome150",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4692,6 +5316,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.ketto.org/",
     "storeLink": "https://www.ketto.org/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4707,6 +5333,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://fr.vestiairecollective.com/",
     "storeLink": "https://fr.vestiairecollective.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4722,6 +5350,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.bajajallianz.com/health-insurance-plans/individual-health-insurance-plans/buy-online.html?src=CBM_02636&utm_source=email&utm_medium=emailer&utm_campaign=AprHealthLS&utm_term=Lpub31",
     "storeLink": "https://www.bajajallianz.com/health-insurance-plans/individual-health-insurance-plans/buy-online.html?src=CBM_02636&utm_source=email&utm_medium=emailer&utm_campaign=AprHealthLS&utm_term=Lpub31",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4737,6 +5367,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.coursera.org/",
     "storeLink": "https://www.coursera.org/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4752,6 +5384,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://iqoption.com/",
     "storeLink": "https://iqoption.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4767,6 +5401,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://shop.cubot.net/",
     "storeLink": "https://shop.cubot.net/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4782,6 +5418,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.carandbike.com/",
     "storeLink": "https://www.carandbike.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4797,6 +5435,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://apps.apple.com/in/app/voot-kids-the-fun-learning-app/id1035290695",
     "storeLink": "https://apps.apple.com/in/app/voot-kids-the-fun-learning-app/id1035290695",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4812,6 +5452,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://play.google.com/store/apps/details?id=com.viacom18.vootkids",
     "storeLink": "https://play.google.com/store/apps/details?id=com.viacom18.vootkids",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4827,6 +5469,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.autodesk.in",
     "storeLink": "https://www.autodesk.in",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4842,6 +5486,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.ccleaner.com/",
     "storeLink": "https://www.ccleaner.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4857,6 +5503,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.redcarpetup.com/",
     "storeLink": "https://www.redcarpetup.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4872,6 +5520,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.cyberghostvpn.com/",
     "storeLink": "https://www.cyberghostvpn.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4887,6 +5537,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.avast.com/",
     "storeLink": "https://www.avast.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4902,6 +5554,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.miabytanishq.com/",
     "storeLink": "https://www.miabytanishq.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4917,6 +5571,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.wildterra2.com/",
     "storeLink": "https://www.wildterra2.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4932,6 +5588,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://hotstar.onelink.me/rL9Z?c=Hotstar_May_June&af_dp=https%3A%2F%2Fwww.hotstar.com%2Fin%2Fsubscribe%2Fget-started&af_siteid={{publisher_id}}&af_prt=mindshareindia2&pid=admitad1_int&af_click_lookback=7d&clickid={{admitad_uid}}",
     "storeLink": "https://hotstar.onelink.me/rL9Z?c=Hotstar_May_June&af_dp=https%3A%2F%2Fwww.hotstar.com%2Fin%2Fsubscribe%2Fget-started&af_siteid={{publisher_id}}&af_prt=mindshareindia2&pid=admitad1_int&af_click_lookback=7d&clickid={{admitad_uid}}",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4947,6 +5605,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.reliancegeneral.co.in/Insurance/Motor-Insurance/taxi-Insurance.aspx?utm_source=google_new&utm_medium=cpc&utm_campaign=IP_PCV_admitad_Pubid",
     "storeLink": "https://www.reliancegeneral.co.in/Insurance/Motor-Insurance/taxi-Insurance.aspx?utm_source=google_new&utm_medium=cpc&utm_campaign=IP_PCV_admitad_Pubid",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4962,6 +5622,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.hm.com/entrance.ahtml",
     "storeLink": "https://www.hm.com/entrance.ahtml",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4977,6 +5639,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://click.hooligapps.com/?pid=18&offer_id=17",
     "storeLink": "https://click.hooligapps.com/?pid=18&offer_id=17",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -4992,6 +5656,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://click.hooligapps.com/?pid=18&offer_id=16",
     "storeLink": "https://click.hooligapps.com/?pid=18&offer_id=16",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5007,6 +5673,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.indusind.com/in/en/personal/accounts/saving-account.html",
     "storeLink": "https://www.indusind.com/in/en/personal/accounts/saving-account.html",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5022,6 +5690,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.hidemyass.com/",
     "storeLink": "https://www.hidemyass.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5037,6 +5707,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.kkday.com/en",
     "storeLink": "https://www.kkday.com/en",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5052,6 +5724,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.nicobar.com/",
     "storeLink": "https://www.nicobar.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5067,6 +5741,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.watconsult.com/",
     "storeLink": "https://www.watconsult.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5082,6 +5758,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.cloudways.com/",
     "storeLink": "https://www.cloudways.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5097,6 +5775,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://www.skiphop.com/",
     "storeLink": "http://www.skiphop.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5112,6 +5792,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.kamaayurveda.com/",
     "storeLink": "https://www.kamaayurveda.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5127,6 +5809,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://thedermaco.com/",
     "storeLink": "https://thedermaco.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5142,6 +5826,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://thephylife.com/collections/body?utm_source=ap&utm_medium=admitad&utm_campaign=BAU_ap_07082020_Bodywash",
     "storeLink": "https://thephylife.com/collections/body?utm_source=ap&utm_medium=admitad&utm_campaign=BAU_ap_07082020_Bodywash",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5157,6 +5843,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.tbdress.com/",
     "storeLink": "https://www.tbdress.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5172,6 +5860,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://groww.in/",
     "storeLink": "https://groww.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5187,6 +5877,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.sonyliv.com/subscription?utm_source=admitad&utm_medium=cps&utm_campaign=admitad-cps-25aug2020",
     "storeLink": "https://www.sonyliv.com/subscription?utm_source=admitad&utm_medium=cps&utm_campaign=admitad-cps-25aug2020",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5202,6 +5894,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.kotak.com/811-savingsaccount-ZeroBalanceAccount/811/ahome2.action?source=811IRCTC&banner=IRCTCADM&pubild=IRCTC",
     "storeLink": "https://www.kotak.com/811-savingsaccount-ZeroBalanceAccount/811/ahome2.action?source=811IRCTC&banner=IRCTCADM&pubild=IRCTC",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5217,6 +5911,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://society6.com/",
     "storeLink": "https://society6.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5232,6 +5928,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.techinasia.com/subscription/dollar-trial/payment",
     "storeLink": "https://www.techinasia.com/subscription/dollar-trial/payment",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5247,6 +5945,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.millenniumhotels.com/",
     "storeLink": "https://www.millenniumhotels.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5262,6 +5962,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en_IN",
     "storeLink": "https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en_IN",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5277,6 +5979,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://ioscout.io/",
     "storeLink": "https://ioscout.io/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5292,6 +5996,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://trip.com/",
     "storeLink": "https://trip.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5307,6 +6013,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.mcdelivery.co.in/?utm_source=affiliate&utm_medium=Admitad&utm_campaign={{publisher_id}}_{{subid}}&admitad_uid={{admitad_uid}}",
     "storeLink": "https://www.mcdelivery.co.in/?utm_source=affiliate&utm_medium=Admitad&utm_campaign={{publisher_id}}_{{subid}}&admitad_uid={{admitad_uid}}",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5322,6 +6030,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.wsj.com/",
     "storeLink": "https://www.wsj.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5337,6 +6047,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://aaptiv.com/",
     "storeLink": "https://aaptiv.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5352,6 +6064,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://epaper.hindustantimes.com/Home/ArticleView",
     "storeLink": "https://epaper.hindustantimes.com/Home/ArticleView",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5367,6 +6081,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://epaper.livehindustan.com/",
     "storeLink": "https://epaper.livehindustan.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5382,6 +6098,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.fun88inr.com/",
     "storeLink": "https://www.fun88inr.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5397,6 +6115,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.muthootfincorp.com/product-service/gold-loan/",
     "storeLink": "https://www.muthootfincorp.com/product-service/gold-loan/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5412,6 +6132,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://apps.apple.com/ru/app/id1449000991?mt=8",
     "storeLink": "https://apps.apple.com/ru/app/id1449000991?mt=8",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5427,6 +6149,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://play.google.com/store/apps/details?id=mobi.sevenwinds.bigsix&referrer=af_tranid%3DR47vhWWRk5Dyrh10pNsnTw%26shortlink%3D65565aa8%26pid%3DSite%26af_web_id%3Df32e18b6-fc4a-4fe2-bc3f-96077d2311cc-c",
     "storeLink": "https://play.google.com/store/apps/details?id=mobi.sevenwinds.bigsix&referrer=af_tranid%3DR47vhWWRk5Dyrh10pNsnTw%26shortlink%3D65565aa8%26pid%3DSite%26af_web_id%3Df32e18b6-fc4a-4fe2-bc3f-96077d2311cc-c",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5442,6 +6166,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "http://pharma.tatamutualfund.com/",
     "storeLink": "http://pharma.tatamutualfund.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5457,6 +6183,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://invideo.io/",
     "storeLink": "https://invideo.io/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5472,6 +6200,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.apple.com/in/",
     "storeLink": "https://www.apple.com/in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5487,6 +6217,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.eveonline.com",
     "storeLink": "https://www.eveonline.com",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5502,6 +6234,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.ustraa.com/featured-categories/sale-products/c?utm_campaign=admitad&utm_source=affiliate&utm_medium=cpa&utm­_content={{publisher_id}}&admitad_uid={{admitad_uid}}",
     "storeLink": "https://www.ustraa.com/featured-categories/sale-products/c?utm_campaign=admitad&utm_source=affiliate&utm_medium=cpa&utm­_content={{publisher_id}}&admitad_uid={{admitad_uid}}",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5517,6 +6251,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.khadiessentials.com/",
     "storeLink": "https://www.khadiessentials.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5532,6 +6268,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://supersmelly.in/",
     "storeLink": "https://supersmelly.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5547,6 +6285,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.tataaig.com/",
     "storeLink": "https://www.tataaig.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5562,6 +6302,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.dell.com/en-in",
     "storeLink": "https://www.dell.com/en-in",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5577,6 +6319,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.apollo247.com/",
     "storeLink": "https://www.apollo247.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5592,6 +6336,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.hamleys.in/",
     "storeLink": "https://www.hamleys.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5607,6 +6353,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.vahdamteas.in",
     "storeLink": "https://www.vahdamteas.in",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5622,6 +6370,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://apps.apple.com/us/app/hola-vpn-privacy-security/id903869356",
     "storeLink": "https://apps.apple.com/us/app/hola-vpn-privacy-security/id903869356",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5637,6 +6387,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.marriott.com/",
     "storeLink": "https://www.marriott.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5652,6 +6404,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.mothercare.in/",
     "storeLink": "https://www.mothercare.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5667,6 +6421,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://tradesmartonline.in/",
     "storeLink": "https://tradesmartonline.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5682,6 +6438,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://login.axisdirect.in/",
     "storeLink": "https://login.axisdirect.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5697,6 +6455,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.thequint.com/videos/chennai-human-music-man-beatboxer-nose-tamil-nadu?utm_source=admitad&utm_medium=CPM&utm_campaign=CPM_PE_10Dec_A",
     "storeLink": "https://www.thequint.com/videos/chennai-human-music-man-beatboxer-nose-tamil-nadu?utm_source=admitad&utm_medium=CPM&utm_campaign=CPM_PE_10Dec_A",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5712,6 +6472,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://surfshark.com/",
     "storeLink": "https://surfshark.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5727,6 +6489,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.nilkamalfurniture.com/",
     "storeLink": "https://www.nilkamalfurniture.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5742,6 +6506,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://iqoption.com/",
     "storeLink": "https://iqoption.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5757,6 +6523,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.tacticalxmen.com/",
     "storeLink": "https://www.tacticalxmen.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5772,6 +6540,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.fun88inr.com/in/register/",
     "storeLink": "https://www.fun88inr.com/in/register/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5787,6 +6557,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.merricart.in/",
     "storeLink": "https://www.merricart.in/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5802,6 +6574,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://in.parimatch.com/en/",
     "storeLink": "https://in.parimatch.com/en/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5817,6 +6591,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.cuemath.com/",
     "storeLink": "https://www.cuemath.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5832,6 +6608,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://play.google.com/store/apps/details?id=com.NetmedsMarketplace.Netmeds&hl=en_IN&gl=US",
     "storeLink": "https://play.google.com/store/apps/details?id=com.NetmedsMarketplace.Netmeds&hl=en_IN&gl=US",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5847,6 +6625,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://programs.upgrad.com/CU-bachelor-of-business-administration",
     "storeLink": "https://programs.upgrad.com/CU-bachelor-of-business-administration",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5862,6 +6642,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://programs.upgrad.com/CU-BA-journalism-and-mass-communication",
     "storeLink": "https://programs.upgrad.com/CU-BA-journalism-and-mass-communication",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5877,6 +6659,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://programs.upgrad.com/CU-bachelor-of-computer-applications",
     "storeLink": "https://programs.upgrad.com/CU-bachelor-of-computer-applications",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5892,6 +6676,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://zolucky.com/",
     "storeLink": "https://zolucky.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5907,6 +6693,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.voot.com/",
     "storeLink": "https://www.voot.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5922,6 +6710,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.wish.com/",
     "storeLink": "https://www.wish.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5937,6 +6727,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://gullyrummy.com/",
     "storeLink": "https://gullyrummy.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5952,6 +6744,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.policyx.com/",
     "storeLink": "https://www.policyx.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5967,6 +6761,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.dailyobjects.com/",
     "storeLink": "https://www.dailyobjects.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5982,6 +6778,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://fno.co/#/",
     "storeLink": "https://fno.co/#/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -5997,6 +6795,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.amazon.in/stores/page/22CBED7F-1F7C-4A0C-8AB9-9AC46E4D78C6",
     "storeLink": "https://www.amazon.in/stores/page/22CBED7F-1F7C-4A0C-8AB9-9AC46E4D78C6",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -6012,6 +6812,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.bharatmatrimony.com/",
     "storeLink": "https://www.bharatmatrimony.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -6027,6 +6829,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.axismf.com/",
     "storeLink": "https://www.axismf.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -6042,6 +6846,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://consult.zanducare.com/sc/customer-registration",
     "storeLink": "https://consult.zanducare.com/sc/customer-registration",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -6057,6 +6863,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.urbanstaroma.com/",
     "storeLink": "https://www.urbanstaroma.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -6072,6 +6880,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://www.icicilombard.com/",
     "storeLink": "https://www.icicilombard.com/",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   },
   {
@@ -6087,6 +6897,8 @@ const admitad  = [
     "slugType": "coupons",
     "domainBrand": "https://codr.toppr.com/signup/?utm_source=Affiliate&utm_medium=&utm_campaign=72_&utm_term=CPB&utm_content=",
     "storeLink": "https://codr.toppr.com/signup/?utm_source=Affiliate&utm_medium=&utm_campaign=72_&utm_term=CPB&utm_content=",
+    "affInfo__StoreEnabled": 1,
+    "site__StoreEnabled": 1,
     "metaInfo__desc": ""
   }
 ]
