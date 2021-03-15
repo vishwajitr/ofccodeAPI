@@ -1,4 +1,5 @@
 import { get } from 'request';
+// import fetch from 'isomorphic-fetch'
 import { genFlipkartUrl } from './utils';
 
 var runFKQuery = function (credentials, method) {

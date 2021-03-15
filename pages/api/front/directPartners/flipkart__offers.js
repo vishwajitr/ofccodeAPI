@@ -1,14 +1,12 @@
 // https://github.com/zivost/flipkart-affiliate-client/
-var affiliate = require("flipkart-affiliate-client");
+import { createClient } from '../../lib/flipkart/index';
 
-let client = affiliate.createClient({
+let client = createClient({
   FkAffId: "vishwajit8",
   FkAffToken: "df7952131bb74afaa6a2dc57d32240d0",
   responseType: "json",
 });
 
-let getAllOffersRes;
-let getDealsOfDayRes;
 export default function handler(req, res) {
   if(req.query.q === 'dotd'){  
     client.getDealsOfDay(null, function (err, resp) {

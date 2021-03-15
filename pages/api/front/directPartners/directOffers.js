@@ -1,4 +1,4 @@
-import { createClient } from '../../../lib/flipkart/index';
+import { createClient } from '../../lib/flipkart/index';
 
 
 var client = createClient({
