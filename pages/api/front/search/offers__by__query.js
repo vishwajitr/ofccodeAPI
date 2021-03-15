@@ -1,13 +1,11 @@
-import { store } from '../../../stores__data'
+import { offers } from '../../../../offers__data'
 
 // const posts = process.env.NODE_ENV === 'production' ? require('../../cache/stores__data').posts : store
-const posts = store
-//http://127.0.0.1:3000/api/people/search?q=obi
+const offersData = offers
+// http://localhost:3002/api/front/search/offers__by__query?q=myntra
 // ref  https://medium.com/@matswainson/building-a-search-component-for-your-next-js-markdown-blog-9e75e0e7d210
 export default (req, res) => {
   const results = req.query.q ?
-    posts.filter(post => post.name.toLowerCase().includes(req.query.q))  : []
+  offersData.filter(post => post.Merchant.toLowerCase().includes(req.query.q))  : []
   res.status(200).json({ results })
 }
-
-

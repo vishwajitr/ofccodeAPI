@@ -1,4 +1,4 @@
-const admitad  = [
+const admitadStores  = [
   {
     "id": 1,
     "affSource": 1,
@@ -6902,4 +6902,4 @@ const admitad  = [
     "metaInfo__desc": ""
   }
 ]
-export default admitad;
+export default admitadStores;
