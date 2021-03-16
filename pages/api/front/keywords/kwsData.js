@@ -6,8 +6,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=myntra",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=myntra"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
       "_id": 2,
@@ -16,8 +16,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=myntra",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=myntra"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
       "_id": 3,
@@ -26,8 +26,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=myntra",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=myntra"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
       "_id": 4,
@@ -36,8 +36,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=myntra",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=myntra"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
       "_id": 5,
@@ -46,8 +46,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=myntra",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=myntra"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
       "_id": 6,
@@ -56,8 +56,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=myntra",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=myntra"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
       "_id": 7,
@@ -66,8 +66,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=myntra",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=myntra"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
       "_id": 8,
@@ -76,8 +76,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=myntra",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=myntra"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
       "_id": 9,
@@ -86,8 +86,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 10,
@@ -96,8 +96,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 11,
@@ -106,8 +106,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 12,
@@ -116,8 +116,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 13,
@@ -126,8 +126,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 14,
@@ -136,8 +136,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 15,
@@ -146,8 +146,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 16,
@@ -156,8 +156,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 17,
@@ -166,8 +166,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 18,
@@ -176,8 +176,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 19,
@@ -186,8 +186,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 20,
@@ -196,8 +196,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 21,
@@ -206,8 +206,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 22,
@@ -216,8 +216,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=amazon",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=amazon"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
       "_id": 23,
@@ -226,8 +226,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84554
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=flipkart",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=flipkart"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=flipkart",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=flipkart"
     },
     {
       "_id": 24,
@@ -236,8 +236,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84554
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=flipkart",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=flipkart"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=flipkart",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=flipkart"
     },
     {
       "_id": 25,
@@ -246,8 +246,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84554
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=flipkart",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=flipkart"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=flipkart",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=flipkart"
     },
     {
       "_id": 26,
@@ -256,8 +256,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84554
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=flipkart",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=flipkart"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=flipkart",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=flipkart"
     },
     {
       "_id": 27,
@@ -266,8 +266,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84554
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=flipkart",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=flipkart"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=flipkart",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=flipkart"
     },
     {
       "_id": 28,
@@ -276,8 +276,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 29,
@@ -286,8 +286,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 30,
@@ -296,8 +296,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 31,
@@ -306,8 +306,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 32,
@@ -316,8 +316,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 33,
@@ -326,8 +326,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 34,
@@ -336,8 +336,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 35,
@@ -346,8 +346,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 36,
@@ -356,8 +356,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 37,
@@ -366,8 +366,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 38,
@@ -376,8 +376,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 39,
@@ -386,8 +386,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 40,
@@ -396,8 +396,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 41,
@@ -406,8 +406,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 42,
@@ -416,8 +416,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 43,
@@ -426,8 +426,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 44,
@@ -436,8 +436,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 45,
@@ -446,8 +446,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 46,
@@ -456,8 +456,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 47,
@@ -466,8 +466,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 48,
@@ -476,8 +476,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=ajio",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=ajio"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
       "_id": 49,
@@ -486,8 +486,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=mamaearth",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=mamaearth"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
       "_id": 50,
@@ -496,8 +496,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=mamaearth",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=mamaearth"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
       "_id": 51,
@@ -506,8 +506,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=mamaearth",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=mamaearth"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
       "_id": 52,
@@ -516,8 +516,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=mamaearth",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=mamaearth"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
       "_id": 53,
@@ -526,8 +526,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=mamaearth",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=mamaearth"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
       "_id": 54,
@@ -536,8 +536,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=mamaearth",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=mamaearth"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
       "_id": 55,
@@ -546,8 +546,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 56,
@@ -556,8 +556,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 57,
@@ -566,8 +566,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 58,
@@ -576,8 +576,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 59,
@@ -586,8 +586,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 60,
@@ -596,8 +596,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 61,
@@ -606,8 +606,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 62,
@@ -616,8 +616,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 63,
@@ -626,8 +626,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 64,
@@ -636,8 +636,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 65,
@@ -646,8 +646,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 66,
@@ -656,8 +656,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 67,
@@ -666,8 +666,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=beardo",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=beardo"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
       "_id": 68,
@@ -676,8 +676,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=tata%20cliq",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=tatacliq"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
       "_id": 69,
@@ -686,8 +686,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=tata%20cliq",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=tatacliq"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
       "_id": 70,
@@ -696,8 +696,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=tata%20cliq",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=tatacliq"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
       "_id": 71,
@@ -706,8 +706,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=tata%20cliq",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=tatacliq"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
       "_id": 72,
@@ -716,8 +716,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=tata%20cliq",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=tatacliq"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
       "_id": 73,
@@ -726,8 +726,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=tata%20cliq",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=tatacliq"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
       "_id": 74,
@@ -736,8 +736,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 75,
@@ -746,8 +746,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 76,
@@ -756,8 +756,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 77,
@@ -766,8 +766,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 78,
@@ -776,8 +776,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 79,
@@ -786,8 +786,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 80,
@@ -796,8 +796,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 81,
@@ -806,8 +806,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 82,
@@ -816,8 +816,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 83,
@@ -826,8 +826,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 84,
@@ -836,8 +836,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 85,
@@ -846,8 +846,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 86,
@@ -856,8 +856,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=pepperfry",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=pepperfry"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
       "_id": 87,
@@ -866,8 +866,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=medlife",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=medlife"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
       "_id": 88,
@@ -876,8 +876,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=medlife",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=medlife"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
       "_id": 89,
@@ -886,8 +886,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=medlife",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=medlife"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
       "_id": 90,
@@ -896,8 +896,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=medlife",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=medlife"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
       "_id": 91,
@@ -906,8 +906,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=medlife",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=medlife"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
       "_id": 92,
@@ -916,8 +916,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=medlife",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=medlife"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
       "_id": 93,
@@ -926,8 +926,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=medlife",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=medlife"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
       "_id": 94,
@@ -936,8 +936,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=medlife",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=medlife"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
       "_id": 95,
@@ -946,8 +946,8 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "http://localhost:3002/api/front/offers/search?q=medlife",
-      "dataSet__coupons": "http://localhost:3002/api/front/coupons/search?q=medlife"
+      "dataSet__offers": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__coupons": "https://ofccode-api-jd5rsee48-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     }
   ]
   export default keywordsData;
