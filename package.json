@@ -10,6 +10,7 @@
   "dependencies": {
     "amazon-pa-api50": "^0.2.0",
     "axios": "^0.21.1",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "flipkart-affiliate-client": "^1.0.1",
     "google-news-json": "^2.0.4",
