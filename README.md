@@ -1,4 +1,11 @@
 # ofccodeAPI
+start command
+yarn start
+
+With Port
+yarn start -p 3002
+
+yarn build
 
 
 Store Info
