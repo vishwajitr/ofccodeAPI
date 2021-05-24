@@ -1,5 +1,5 @@
-import { cuelinksOffers } from '../../../../offers__data'
+import { offers } from '../../../../offers__data'
 
 export default function handler(req, res) {
-  res.status(200).json(cuelinksOffers)
+  res.status(200).json(offers)
 }
