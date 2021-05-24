@@ -6,7 +6,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=myntra",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
@@ -16,7 +16,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=myntra",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
@@ -26,7 +26,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=myntra",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
@@ -36,7 +36,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=myntra",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
@@ -46,7 +46,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=myntra",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
@@ -56,7 +56,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=myntra",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
@@ -66,7 +66,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=myntra",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
@@ -76,7 +76,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84555
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=myntra",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=myntra",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=myntra"
     },
     {
@@ -86,7 +86,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -96,7 +96,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -106,7 +106,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -116,7 +116,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -126,7 +126,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -136,7 +136,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -146,7 +146,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -156,7 +156,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -166,7 +166,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -176,7 +176,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -186,7 +186,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -196,7 +196,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -206,7 +206,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -216,7 +216,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84551
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=amazon",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=amazon",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=amazon"
     },
     {
@@ -226,7 +226,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84554
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=flipkart",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=flipkart",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=flipkart"
     },
     {
@@ -236,7 +236,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84554
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=flipkart",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=flipkart",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=flipkart"
     },
     {
@@ -246,7 +246,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84554
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=flipkart",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=flipkart",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=flipkart"
     },
     {
@@ -256,7 +256,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84554
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=flipkart",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=flipkart",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=flipkart"
     },
     {
@@ -266,7 +266,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84554
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=flipkart",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=flipkart",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=flipkart"
     },
     {
@@ -276,7 +276,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -286,7 +286,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -296,7 +296,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -306,7 +306,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -316,7 +316,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -326,7 +326,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -336,7 +336,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -346,7 +346,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -356,7 +356,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -366,7 +366,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -376,7 +376,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -386,7 +386,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -396,7 +396,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -406,7 +406,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -416,7 +416,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -426,7 +426,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -436,7 +436,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -446,7 +446,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -456,7 +456,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -466,7 +466,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -476,7 +476,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84560
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=ajio",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=ajio",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=ajio"
     },
     {
@@ -486,7 +486,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=mamaearth",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
@@ -496,7 +496,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=mamaearth",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
@@ -506,7 +506,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=mamaearth",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
@@ -516,7 +516,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=mamaearth",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
@@ -526,7 +526,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=mamaearth",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
@@ -536,7 +536,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84563
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=mamaearth",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=mamaearth",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=mamaearth"
     },
     {
@@ -546,7 +546,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -556,7 +556,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -566,7 +566,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -576,7 +576,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -586,7 +586,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -596,7 +596,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -606,7 +606,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -616,7 +616,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -626,7 +626,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -636,7 +636,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -646,7 +646,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -656,7 +656,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -666,7 +666,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84566
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=beardo",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=beardo",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=beardo"
     },
     {
@@ -676,7 +676,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=tata%20cliq",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
@@ -686,7 +686,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=tata%20cliq",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
@@ -696,7 +696,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=tata%20cliq",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
@@ -706,7 +706,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=tata%20cliq",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
@@ -716,7 +716,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=tata%20cliq",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
@@ -726,7 +726,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         15542
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=tata%20cliq",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=tata%20cliq",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=tatacliq"
     },
     {
@@ -736,7 +736,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -746,7 +746,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -756,7 +756,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -766,7 +766,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -776,7 +776,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -786,7 +786,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -796,7 +796,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -806,7 +806,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -816,7 +816,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -826,7 +826,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -836,7 +836,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -846,7 +846,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -856,7 +856,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84755
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=pepperfry",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=pepperfry",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=pepperfry"
     },
     {
@@ -866,7 +866,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=medlife",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
@@ -876,7 +876,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=medlife",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
@@ -886,7 +886,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=medlife",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
@@ -896,7 +896,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=medlife",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
@@ -906,7 +906,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=medlife",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
@@ -916,7 +916,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=medlife",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
@@ -926,7 +926,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=medlife",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
@@ -936,7 +936,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=medlife",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     },
     {
@@ -946,7 +946,7 @@ const keywordsData  = [
       "dataSet__storesId": [
         84759
       ],
-      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/offers/search?q=medlife",
+      "dataSet__offers": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/search/offers__by__query?q=myntra?q=medlife",
       "dataSet__coupons": "https://ofccode-api-git-main-sportybruh1990.vercel.app/api/front/coupons/search?q=medlife"
     }
   ]
