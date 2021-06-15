@@ -1,11 +1,11 @@
 import { stores } from '../../../../stores__data'
 const posts = stores
 // http://localhost:3002/api/front/search/stores__by__query?q=myn
-import Cors from 'cors'
-// Initializing the cors middleware
-const cors = Cors({
-  methods: ['GET', 'HEAD'],
-})
+// import Cors from 'cors'
+// // Initializing the cors middleware
+// const cors = Cors({
+//   methods: ['GET', 'HEAD'],
+// })
 
 
 const allowCors = fn => async (req, res) => {
