@@ -1,6 +1,4 @@
-import cuelinksOffers from './pages/api/front/cuels/offersData';
-// import flipartOffers from './pages/api/front/directPartners/flipkart__offers';
+import offersData from './pages/api/front/offers/offersData';
 export const offers = [  
-  ...cuelinksOffers,
-  // ...flipartOffers
+  ...offersData,
 ];

@@ -14,3 +14,8 @@ export default (req, res) => {
     res.status(404).json({ message: `${req.query.q} not found.` });
   }
 };
+
+
+// =====================
+// Used in http://localhost:3000/store/amazon
+// =====================

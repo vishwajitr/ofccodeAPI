@@ -34,3 +34,12 @@ http://localhost:3002/api/front/keywords
 
 flipkart__offers
 http://localhost:3002/api/front/directPartners/flipkart__offers
+
+flipkart Category Feeds
+http://localhost:3002/api/front/directPartners/flipkart__offers?q=getCategoryFeed
+
+flipkart productfeeds
+http://localhost:3002/api/front/directPartners/flipkart__offers?q=getProductsFeed
+
+
+http://localhost:3002/api/front/directPartners/flipkart__offers?q=getCategoryFeed&catName=food_nutrition
