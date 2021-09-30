@@ -54,3 +54,8 @@ http://localhost:3002/api/front/directPartners/flipkart__offers?q=getProductsFee
 
 
 http://localhost:3002/api/front/directPartners/flipkart__offers?q=getCategoryFeed&catName=food_nutrition
+
+
+
+DIrect Offers from stores
+http://localhost:3002/api/front/directPartners/directOffers?q=flipkart
