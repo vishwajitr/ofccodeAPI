@@ -31,8 +31,7 @@ Offers By Query [used in home page]
 http://localhost:3002/api/front/search/offers__by__query?q=amazon
 
 offer__by__store-slug
-<!-- http://localhost:3002/api/front/offers/offer__by__store-slug?q=amazon -->
-
+<!-- http://localhost:3002/api/front/offers/offer__by__store-slug?q=amazon ->
 
 
 
