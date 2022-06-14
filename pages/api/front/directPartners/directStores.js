@@ -1,3 +1,7 @@
+/*
+Manual store created to mapp info and fetch offers of the same
+*/
+
 const directStores  = [
   {
     "id": 1001,

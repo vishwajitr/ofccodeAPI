@@ -4,7 +4,7 @@ import myntra__offers from '../../../../stores/myntra/api__coupons.json';
 import ajio__offers from '../../../../stores/ajio/api__coupons.json';
 
 shuffle(amazon__offfers);
-shuffle(flipkart__offers);
+// shuffle(flipkart__offers);
 shuffle(myntra__offers);
 shuffle(ajio__offers);
 

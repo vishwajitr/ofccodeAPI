@@ -1,3 +1,8 @@
+/*
+Scrape Data Shown
+*/
+
+
 // var offersData = require('./offersData.js');
 
 // const OffersRaw  = offersData;

@@ -1,3 +1,4 @@
+//picked stores info from admitad and directstores
 import admitadStores from './pages/api/front/admi/admitadStores';
 import directStores from './pages/api/front/directPartners/directStores';
 
