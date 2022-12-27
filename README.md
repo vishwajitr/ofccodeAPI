@@ -35,10 +35,6 @@ offer__by__store-slug
 
 
 
-
-
-
-
 ============Just for Site============
 keywords
 http://localhost:3002/api/front/keywords
@@ -73,6 +69,9 @@ http://localhost:3002/api/front/directPartners/directOffers?q=flipkart
 
 
 
+http://localhost:3002/api/front/directPartners/amazon__offers
+
+
 
 #todo
 1. Amazon Popular Products
@@ -82,6 +81,8 @@ http://localhost:3002/api/front/directPartners/directOffers?q=flipkart
 
 
 
+Best Offers And Coupons Of The Day - combined 
+http://localhost:3002/api/front/offers
 
-
-/stores/ -> stores__data.js
+Stores
+Categories
