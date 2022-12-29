@@ -21,11 +21,10 @@ http://localhost:3002/api/front/search/stores__by__query?q=am
 
 
 
-
-
-
 All Offers
 http://localhost:3002/api/front/offers
+
+
 
 Offers By Query [used in home page] 
 http://localhost:3002/api/front/search/offers__by__query?q=amazon
