@@ -7,7 +7,7 @@ const offersData = offers
 console.log(offersData);
 export default (req, res) => {
   const results = req.query.q ?
-  offersData.filter(post => post.merchant.toLowerCase().includes(req.query.q))  : []
+    offersData.filter(post => post.merchant.toLowerCase().includes(req.query.q)) : []
   res.status(200).json({ results })
 }
 

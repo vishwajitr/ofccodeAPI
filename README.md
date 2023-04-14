@@ -80,6 +80,11 @@ http://localhost:3002/api/front/directPartners/amazon__offers
 
 
 
+#newtodo
+#fetch data here and upload it to offerscode server
+
+
+
 Best Offers And Coupons Of The Day - combined 
 http://localhost:3002/api/front/offers
 
