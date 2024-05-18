@@ -90,3 +90,5 @@ http://localhost:3002/api/front/offers
 
 Stores
 Categories
+
+ps aux | grep app.py

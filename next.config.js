@@ -1,5 +1,12 @@
 // next.config.js
 module.exports = {
+    webpack: {
+      configure: {
+        experiments: {
+          topLevelAwait: true,
+        },
+      },
+    },
     async headers() {
       return [
         {
