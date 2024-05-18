@@ -6,7 +6,7 @@ function Index() {
         <br/> <br/>
         Read Me Doc <br/>
         <Link href=" https://github.com/vishwajitr/ofccodeAPI#readme">
-          <a> https://github.com/vishwajitr/ofccodeAPI#readme</a>
+          https://github.com/vishwajitr/ofccodeAPI#readme
         </Link>
     </div>
   }
